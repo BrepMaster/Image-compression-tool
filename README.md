@@ -9,4 +9,7 @@
 + 自动缩放：大图自动缩小以节省空间
 
 通过网盘分享的文件：Image-compression-tool.exe
-链接: https://pan.baidu.com/s/1EikjVGJq7C3uzG6kBRWd4w?pwd=3kms 提取码: 3kms
+
+链接: https://pan.baidu.com/s/1EikjVGJq7C3uzG6kBRWd4w?pwd=3kms 
+
+提取码: 3kms
