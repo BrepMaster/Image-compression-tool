@@ -7,3 +7,6 @@
 + 外部工具支持：pngquant、mozjpeg、optipng、cwebp、gifsicle 等
 + 批量处理：支持文件和文件夹批量压缩
 + 自动缩放：大图自动缩小以节省空间
+
+通过网盘分享的文件：Image-compression-tool.exe
+链接: https://pan.baidu.com/s/1EikjVGJq7C3uzG6kBRWd4w?pwd=3kms 提取码: 3kms
